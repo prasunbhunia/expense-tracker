@@ -1,0 +1,44 @@
+.new-expense {
+  padding: 1rem;
+  margin: 1rem auto;
+  width: 50rem;
+  max-width: 95%;
+  border-radius: 12px;
+  text-align: center;
+  background: rgb(235,219,226);
+  background: radial-gradient(circle, rgba(235,219,226,1) 0%, rgba(211,220,230,1) 100%);
+  box-shadow: 0 1px 4px rgba(31, 20, 20, 0.1);
+}
+
+
+// NewExpenseForm SCSS
+.new-expense-controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-bottom: 1rem;
+  text-align: left;
+  align-content: center;
+
+  .new-expense-control label {
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+    display: block;
+  }
+
+  .new-expense-control input {
+    font: inherit;
+    padding: 0.5rem;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    width: 20rem;
+    max-width: 100%;
+  }
+
+  .new-expense-actions {
+    display: flex;
+    width: 320px;
+    justify-content: center;
+    align-items: center;
+  }
+}

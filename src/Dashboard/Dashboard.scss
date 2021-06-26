@@ -1,0 +1,42 @@
+@font-face {
+    font-family: 'Demure';
+    font-style: normal;
+    font-weight: 500;
+    src: url('../assets/font/Demure.ttf'); 
+  }
+.dashboard{
+    width: 100%;
+    height: 100%;
+    display: flex;
+
+    .profile{
+        width: 7%;
+        border: 2px;
+        padding: 10px 5px;
+    }
+    .dashboard-item{
+        width: 80%;
+        height: 100%;
+        padding: 10px 50px;
+        border-radius: 12px;
+        background: rgb(255,255,255);
+        background: radial-gradient(circle, rgba(255,255,255,0.54) 0%, rgba(255,255,255,0.54) 100%);
+        box-shadow: 0 1px 4px rgba(31, 20, 20, 0.10);
+        .heading{
+            h2{
+            font-family: Demure;
+            font-size: xx-large;
+            text-align: left;  
+            margin-block-end: 0px;
+            }
+            h4{
+                margin-block-start: 2px;
+            }
+        }
+    }
+    .Details{
+        width: 13%;
+    }
+    
+}
+

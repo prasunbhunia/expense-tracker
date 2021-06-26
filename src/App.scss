@@ -1,11 +1,20 @@
 body{
     font-family: 'Open Sans Condensed';
-    padding: 20px 60px;
-} 
+    padding: 100px 200px;
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
 a {
     text-decoration: none;
     color: black;
 }
 * {
     box-sizing: border-box;
+}
+.app{
+    padding: 10px;
+    border-radius: 12px;
+    background: rgb(238,238,238);
+    background: radial-gradient(circle, rgba(238,238,238,0.44) 0%, rgba(255,255,255,0.44) 100%);
+    box-shadow: 0 1px 4px rgba(31, 20, 20, 0.10);
 }

@@ -1,8 +1,13 @@
+import Dashboard from './Dashboard/Dashboard';
+
 import "./App.scss";
 
 function App(){
+
     return( 
-        <h1>hello</h1>
+        <div className='app'>
+            <Dashboard />
+        </div>
     );
 }
 
