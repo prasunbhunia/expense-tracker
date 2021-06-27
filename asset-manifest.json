@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/expense-tracker/static/css/main.81b14e04.chunk.css",
+    "main.css": "/expense-tracker/static/css/main.89029ea1.chunk.css",
     "main.js": "/expense-tracker/static/js/main.436300e4.chunk.js",
     "main.js.map": "/expense-tracker/static/js/main.436300e4.chunk.js.map",
     "runtime-main.js": "/expense-tracker/static/js/runtime-main.9c28d9b6.js",
@@ -8,7 +8,7 @@
     "static/js/2.04c72cf4.chunk.js": "/expense-tracker/static/js/2.04c72cf4.chunk.js",
     "static/js/2.04c72cf4.chunk.js.map": "/expense-tracker/static/js/2.04c72cf4.chunk.js.map",
     "index.html": "/expense-tracker/index.html",
-    "static/css/main.81b14e04.chunk.css.map": "/expense-tracker/static/css/main.81b14e04.chunk.css.map",
+    "static/css/main.89029ea1.chunk.css.map": "/expense-tracker/static/css/main.89029ea1.chunk.css.map",
     "static/js/2.04c72cf4.chunk.js.LICENSE.txt": "/expense-tracker/static/js/2.04c72cf4.chunk.js.LICENSE.txt",
     "static/media/Dashboard.scss": "/expense-tracker/static/media/Demure.20f52779.ttf",
     "static/media/logo.3a4e2b15.svg": "/expense-tracker/static/media/logo.3a4e2b15.svg"
@@ -16,7 +16,7 @@
   "entrypoints": [
     "static/js/runtime-main.9c28d9b6.js",
     "static/js/2.04c72cf4.chunk.js",
-    "static/css/main.81b14e04.chunk.css",
+    "static/css/main.89029ea1.chunk.css",
     "static/js/main.436300e4.chunk.js"
   ]
 }
