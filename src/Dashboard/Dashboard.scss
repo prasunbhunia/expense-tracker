@@ -40,3 +40,36 @@
     
 }
 
+@media (max-width: 768px) {
+    .dashboard{
+        width: 425px;
+        .profile{
+            width: 8%;
+            padding: 5px 3px;
+
+            .logo-container{
+                .logo{
+                    width: 25px;
+                }
+            }
+        }
+        .dashboard-item{
+            width: 92%;
+            padding: 5px 20px;
+
+            .heading{
+                h2{
+                    font-family: Demure;
+                    font-size: large;
+                    text-align: left;  
+                    margin-block-end: 0px;
+                }
+                h4{
+                    font-size: smaller;
+                }
+            }
+
+        }
+    }
+
+}
